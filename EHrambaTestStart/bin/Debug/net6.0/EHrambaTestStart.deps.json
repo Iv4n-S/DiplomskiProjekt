@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EHrambaTestStart/1.0.0": {
+        "dependencies": {
+          "EHrambaTest": "1.0.0"
+        },
+        "runtime": {
+          "EHrambaTestStart.dll": {}
+        }
+      },
+      "EHrambaTest/1.0.0": {
+        "runtime": {
+          "EHrambaTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EHrambaTestStart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EHrambaTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

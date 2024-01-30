@@ -1,0 +1,12 @@
+C:\Work\EHramba\EHrambaTest\obj\Debug\net6.0\EHrambaTest.csproj.AssemblyReference.cache
+C:\Work\EHramba\EHrambaTest\obj\Debug\net6.0\EHrambaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\EHramba\EHrambaTest\obj\Debug\net6.0\EHrambaTest.AssemblyInfoInputs.cache
+C:\Work\EHramba\EHrambaTest\obj\Debug\net6.0\EHrambaTest.AssemblyInfo.cs
+C:\Work\EHramba\EHrambaTest\obj\Debug\net6.0\EHrambaTest.csproj.CoreCompileInputs.cache
+C:\Work\EHramba\EHrambaTest\bin\Debug\net6.0\EHrambaTest.deps.json
+C:\Work\EHramba\EHrambaTest\bin\Debug\net6.0\EHrambaTest.dll
+C:\Work\EHramba\EHrambaTest\bin\Debug\net6.0\EHrambaTest.pdb
+C:\Work\EHramba\EHrambaTest\obj\Debug\net6.0\EHrambaTest.dll
+C:\Work\EHramba\EHrambaTest\obj\Debug\net6.0\refint\EHrambaTest.dll
+C:\Work\EHramba\EHrambaTest\obj\Debug\net6.0\EHrambaTest.pdb
+C:\Work\EHramba\EHrambaTest\obj\Debug\net6.0\ref\EHrambaTest.dll
